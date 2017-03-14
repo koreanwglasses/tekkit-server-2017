@@ -1,0 +1,28 @@
+{
+  "ident": "(1191e41a-1ff1-4507-9b54-9cb5f9aad617|PaarthRI)",
+  "home": {
+    "dim": 0,
+    "pitch": 20.884783,
+    "yaw": -352.802,
+    "xd": 460.72319980881474,
+    "yd": 42.0,
+    "zd": -200.69494447561388
+  },
+  "lastTeleportOrigin": {
+    "dim": 0,
+    "pitch": 16.252491,
+    "yaw": -263.36597,
+    "xd": 575.8034534751279,
+    "yd": 28.200000047683716,
+    "zd": -173.516825166264
+  },
+  "lastTeleportTime": 1489453240462,
+  "selDim": 0,
+  "inventoryGroups": {},
+  "activeInventoryGroup": "default",
+  "timePlayed": 6779989,
+  "firstLogin": "Mar 13, 2017 7:10:25 PM",
+  "lastLogin": "Mar 13, 2017 7:10:25 PM",
+  "lastLogout": "Mar 13, 2017 9:03:25 PM",
+  "namedTimeout": {}
+}
