@@ -44,6 +44,11 @@
     "(fefefefe-fefe-fefe-fefe-fefefefefecb|$COMMANDBLOCK)": {
       "*": "true",
       "fe.internal.player.known": "true"
+    },
+    "(fefefefe-fefe-fefe-fefe-fefefefefeec|$FE_ECONOMY)": {
+      "fe.economy.command.wallet.*": "true",
+      "command.give": "true",
+      "fe.internal.player.known": "true"
     }
   },
   "groupPermissions": {
@@ -95,6 +100,7 @@
       "fe.faction.ally": "true",
       "fe.faction.friendlyfire": "true",
       "fe.faction.invite": "true",
+      "fe.internal.group.priority": "18",
       "fe.internal.group.parents": "faction_rank_op",
       "fe.faction.delete": "true"
     },
@@ -102,7 +108,8 @@
       "fe.faction.members.*": "true",
       "fe.faction.ally": "true",
       "fe.faction.friendlyfire": "true",
-      "fe.faction.invite": "true"
+      "fe.faction.invite": "true",
+      "fe.internal.group.priority": "16"
     },
     "_GUESTS_": {
       "fe.internal.prefix": "[GUEST]",

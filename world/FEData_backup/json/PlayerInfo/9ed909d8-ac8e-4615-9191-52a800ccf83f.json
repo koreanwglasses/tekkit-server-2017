@@ -1,0 +1,28 @@
+{
+  "ident": "(9ed909d8-ac8e-4615-9191-52a800ccf83f|KoreanwGlasses)",
+  "home": {
+    "dim": 0,
+    "pitch": 14.250036,
+    "yaw": 281.3291,
+    "xd": 457.84330491904694,
+    "yd": 139.0,
+    "zd": -235.56433648172617
+  },
+  "lastTeleportOrigin": {
+    "dim": 0,
+    "pitch": 23.549995,
+    "yaw": 181.28113,
+    "xd": 1119.940785941425,
+    "yd": 82.15013559610082,
+    "zd": 128.0431940959494
+  },
+  "lastTeleportTime": 1489452834898,
+  "selDim": 0,
+  "inventoryGroups": {},
+  "activeInventoryGroup": "default",
+  "timePlayed": 19743194,
+  "firstLogin": "Mar 13, 2017 7:10:22 PM",
+  "lastLogin": "Mar 14, 2017 7:44:08 PM",
+  "lastLogout": "Mar 14, 2017 7:45:58 PM",
+  "namedTimeout": {}
+}
