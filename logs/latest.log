@@ -1,40 +1,7 @@
-[20:06:24] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[20:06:43] [Server thread/INFO]: Loading properties
-[20:06:43] [Server thread/INFO]: Default game type: SURVIVAL
-[20:06:43] [Server thread/INFO]: Generating keypair
-[20:06:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:06:54] [Server thread/INFO]: Preparing level "world"
-[20:06:54] [Thread-17/INFO]: Starting backup of dim 1...
-[20:06:54] [Thread-17/INFO]: Backup finished
-[20:06:54] [Thread-18/INFO]: Starting backup of dim -1...
-[20:06:55] [Server thread/INFO]: Preparing start region for level 0
-[20:06:55] [Server thread/INFO]: Done (6.391s)! For help, type "help" or "?"
-[20:06:56] [Thread-18/INFO]: Backup finished
-[20:06:56] [Thread-19/INFO]: Starting backup of dim 0...
-[20:07:02] [Thread-19/INFO]: Backup finished
-[20:07:02] [Thread-25/INFO]: Starting backup of dim 1...
-[20:07:02] [Thread-25/INFO]: Backup finished
-[20:07:53] [User Authenticator #1/INFO]: UUID of player KoreanwGlasses is 9ed909d8-ac8e-4615-9191-52a800ccf83f
-[20:07:54] [Server thread/INFO]: KoreanwGlasses[/192.168.1.1:53132] logged in with entity id 265 at (459.76249998807907, 42.0, -238.06718476058043)
-[20:07:54] [Server thread/INFO]: KoreanwGlasses joined the game
-[20:23:14] [Server thread/INFO]: KoreanwGlasses lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[20:23:14] [Server thread/INFO]: KoreanwGlasses left the game
-[20:23:19] [User Authenticator #2/INFO]: UUID of player KoreanwGlasses is 9ed909d8-ac8e-4615-9191-52a800ccf83f
-[20:23:19] [Server thread/INFO]: KoreanwGlasses[/192.168.1.1:53549] logged in with entity id 19711 at (448.6041664816819, 17.42087533268823, -232.72193679095548)
-[20:23:19] [Server thread/INFO]: KoreanwGlasses joined the game
-[20:59:52] [Server thread/INFO]: KoreanwGlasses lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[20:59:52] [Server thread/INFO]: KoreanwGlasses left the game
-[20:59:56] [User Authenticator #3/INFO]: UUID of player KoreanwGlasses is 9ed909d8-ac8e-4615-9191-52a800ccf83f
-[20:59:57] [Server thread/INFO]: KoreanwGlasses[/192.168.1.1:54470] logged in with entity id 59147 at (435.5951719551741, 42.0, -239.08952048797806)
-[20:59:57] [Server thread/INFO]: KoreanwGlasses joined the game
-[21:06:56] [Thread-190/INFO]: Starting backup of dimensions -1, 0
-[21:07:03] [Thread-190/INFO]: Backup finished!
-[21:23:54] [Server thread/INFO]: KoreanwGlasses lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[21:23:54] [Server thread/INFO]: KoreanwGlasses left the game
-[21:23:59] [Server thread/INFO]: Stopping the server
-[21:24:00] [Server thread/INFO]: Stopping server
-[21:24:00] [Server thread/INFO]: Saving players
-[21:24:00] [Server thread/INFO]: Saving worlds
-[21:24:00] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[21:24:00] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[21:24:00] [Thread-238/INFO]: Starting backup of dim 0...
+[00:02:52] [Server thread/INFO]: Stopping the server
+[00:02:52] [Server thread/INFO]: Stopping server
+[00:02:52] [Server thread/INFO]: Saving players
+[00:02:52] [Server thread/INFO]: Saving worlds
+[00:02:52] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:02:52] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[00:02:52] [Thread-7881/INFO]: Starting backup of dim 0...
