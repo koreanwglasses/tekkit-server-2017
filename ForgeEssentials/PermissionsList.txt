@@ -1,5 +1,5 @@
 #// ------------ PERMISSIONS LIST ---------- \\#
-#// --------------- 15.03 14:56 ------------ \\#
+#// --------------- 16.03 14:50 ------------ \\#
 #// ----------- Total amount: 10089 --------- \\#
 #// ---------------------------------------- \\#
 command./calc                                                                                    # (default: true) 
@@ -529,7 +529,7 @@ fe.remote                                                                       
 fe.remote.chat.push                                                                              # (default: true) Allows requesting chat push messages
 fe.remote.chat.query                                                                             # (default: true) Allows querying chat messages
 fe.remote.chat.send                                                                              # (OP only: true) Allows to send chat messages
-fe.remote.command                                                                                # (OP only: true) Allows to run commands remotely
+fe.remote.command                                                                                # (default: true) Allows to run commands remotely
 fe.remote.control                                                                                # (OP only: true) Allows to start / stop remote server and control users (regen passkeys, kick, block)
 fe.remote.mapper.query.region                                                                    # (default: true) Allows querying region tiles
 fe.remote.permission.set                                                                         # (OP only: true) Allows to change permissions

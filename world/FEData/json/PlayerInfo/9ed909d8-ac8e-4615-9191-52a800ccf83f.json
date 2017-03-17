@@ -10,19 +10,19 @@
   },
   "lastTeleportOrigin": {
     "dim": 0,
-    "pitch": 29.849861,
-    "yaw": 290.312,
-    "xd": -137.71464577086326,
-    "yd": 77.1230047079385,
-    "zd": -234.7336942906402
+    "pitch": 39.599815,
+    "yaw": 211.87978,
+    "xd": 616.4891199522939,
+    "yd": 43.20000004768371,
+    "zd": -604.5388372441279
   },
-  "lastTeleportTime": 1489627851213,
+  "lastTeleportTime": 1489709655858,
   "selDim": 0,
   "inventoryGroups": {},
   "activeInventoryGroup": "default",
-  "timePlayed": 29605573,
+  "timePlayed": 38830834,
   "firstLogin": "Mar 13, 2017 7:10:22 PM",
-  "lastLogin": "Mar 15, 2017 10:49:30 PM",
-  "lastLogout": "Mar 15, 2017 11:23:10 PM",
+  "lastLogin": "Mar 16, 2017 11:45:20 PM",
+  "lastLogout": "Mar 16, 2017 11:51:38 PM",
   "namedTimeout": {}
 }
