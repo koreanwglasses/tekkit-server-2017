@@ -25,6 +25,9 @@
   "playerGroups": {
     "(1191e41a-1ff1-4507-9b54-9cb5f9aad617|PaarthRI)": [
       "players"
+    ],
+    "(348ce94d-11dd-479b-b48a-ce6fbfab02ae|Derek30000)": [
+      "players"
     ]
   },
   "id": 1,
@@ -48,6 +51,13 @@
     "(fefefefe-fefe-fefe-fefe-fefefefefeec|$FE_ECONOMY)": {
       "fe.economy.command.wallet.*": "true",
       "command.give": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(2001c9aa-bbf8-306c-9b60-485e8cc6e215|$NPC)": {
+      "fe.internal.player.known": "true"
+    },
+    "(348ce94d-11dd-479b-b48a-ce6fbfab02ae|Derek30000)": {
+      "fe.internal.player.groups": "players",
       "fe.internal.player.known": "true"
     }
   },

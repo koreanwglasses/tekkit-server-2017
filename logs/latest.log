@@ -1,82 +1,131 @@
-[14:33:18] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[14:33:38] [Server thread/INFO]: Loading properties
-[14:33:38] [Server thread/INFO]: Default game type: SURVIVAL
-[14:33:38] [Server thread/INFO]: Generating keypair
-[14:33:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:49:52] [Server thread/INFO]: Preparing level "world"
-[14:49:52] [Thread-17/INFO]: Starting backup of dim 1...
-[14:49:52] [Thread-17/INFO]: Backup finished
-[14:49:52] [Thread-18/INFO]: Starting backup of dim -1...
-[14:49:52] [Server thread/INFO]: Preparing start region for level 0
-[14:49:53] [Server thread/INFO]: Done (6.312s)! For help, type "help" or "?"
-[14:49:53] [Thread-18/INFO]: Backup finished
-[14:49:53] [Thread-19/INFO]: Starting backup of dim 0...
-[14:49:59] [Thread-19/INFO]: Backup finished
-[14:50:37] [Thread-42/INFO]: Starting backup of dim 1...
-[14:50:38] [Thread-42/INFO]: Backup finished
-[15:49:53] [Thread-1087/INFO]: Starting backup of dimensions -1, 0
-[15:50:00] [Thread-1087/INFO]: Backup finished!
-[16:49:53] [Thread-2200/INFO]: Starting backup of dimensions -1, 0
-[16:50:00] [Thread-2200/INFO]: Backup finished!
-[17:49:53] [Thread-3288/INFO]: Starting backup of dimensions -1, 0
-[17:50:00] [Thread-3288/INFO]: Backup finished!
-[17:50:13] [User Authenticator #1/INFO]: UUID of player KoreanwGlasses is 9ed909d8-ac8e-4615-9191-52a800ccf83f
-[17:50:14] [Server thread/INFO]: KoreanwGlasses[/192.168.1.1:50685] logged in with entity id 5119 at (272.60609690916124, 74.0, -347.730010093319)
-[17:50:14] [Server thread/INFO]: KoreanwGlasses joined the game
-[18:48:10] [Server thread/INFO]: [KoreanwGlasses: Saved the world]
-[18:48:12] [Server thread/INFO]: KoreanwGlasses lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:48:12] [Server thread/INFO]: KoreanwGlasses left the game
-[18:48:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@34e21af3[id=<null>,name=KoreanwGlasses,properties={},legacy=false] (/192.168.1.1:50985) lost connection: Internal Exception: java.io.IOException: Connection reset by peer
-[18:49:53] [Thread-3514/INFO]: Starting backup of dimensions -1, 0
-[18:49:58] [User Authenticator #2/INFO]: UUID of player KoreanwGlasses is 9ed909d8-ac8e-4615-9191-52a800ccf83f
-[18:49:58] [Server thread/INFO]: KoreanwGlasses[/192.168.1.1:51063] logged in with entity id 81359 at (454.71696690937864, 50.0, -203.6277412120254)
-[18:49:58] [Server thread/INFO]: KoreanwGlasses joined the game
-[18:50:00] [Thread-3514/INFO]: Backup finished!
-[18:50:23] [Server thread/WARN]: KoreanwGlasses moved wrongly!
-[18:58:01] [Server thread/INFO]: KoreanwGlasses lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:58:01] [Server thread/INFO]: KoreanwGlasses left the game
-[19:04:01] [User Authenticator #3/INFO]: UUID of player KoreanwGlasses is 9ed909d8-ac8e-4615-9191-52a800ccf83f
-[19:04:01] [Server thread/INFO]: KoreanwGlasses[/192.168.1.1:51121] logged in with entity id 102735 at (464.04475076013955, 42.0, -237.0395181801879)
-[19:04:01] [Server thread/INFO]: KoreanwGlasses joined the game
-[19:12:11] [Server thread/WARN]: KoreanwGlasses moved too quickly! 0.0,-13.126777437406972,0.0 (0.0, 13.126777437406972, 0.0)
-[19:12:12] [Server thread/WARN]: KoreanwGlasses moved too quickly! 0.0,-17.98627992311829,0.0 (0.0, 17.98627992311829, 0.0)
-[19:12:12] [Server thread/WARN]: KoreanwGlasses moved too quickly! 0.0,-17.98627992311829,0.0 (0.0, 17.98627992311829, 0.0)
-[19:15:20] [Server thread/INFO]: KoreanwGlasses lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:15:20] [Server thread/INFO]: KoreanwGlasses left the game
-[19:21:55] [User Authenticator #4/INFO]: UUID of player KoreanwGlasses is 9ed909d8-ac8e-4615-9191-52a800ccf83f
-[19:21:56] [Server thread/INFO]: KoreanwGlasses[/192.168.1.1:51512] logged in with entity id 125206 at (463.56723124483165, 42.0, -238.1617975187885)
-[19:21:56] [Server thread/INFO]: KoreanwGlasses joined the game
-[19:26:44] [Server thread/WARN]: KoreanwGlasses moved too quickly! 0.0,-13.923550628980308,0.0 (0.0, 13.923550628980308, 0.0)
-[19:26:45] [Server thread/WARN]: KoreanwGlasses moved too quickly! 0.0,-10.638944461659918,0.0 (0.0, 10.638944461659918, 0.0)
-[19:49:53] [Thread-4389/INFO]: Starting backup of dimensions -1, 0
-[19:50:01] [Thread-4389/INFO]: Backup finished!
-[19:50:59] [Server thread/WARN]: KoreanwGlasses moved wrongly!
-[19:52:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 55439ms behind, skipping 1108 tick(s)
-[19:53:15] [Server thread/WARN]: KoreanwGlasses moved too quickly! 0.0,-13.181055875244127,0.0 (0.0, 13.181055875244127, 0.0)
-[19:54:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 126590ms behind, skipping 2531 tick(s)
-[19:55:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 39065ms behind, skipping 781 tick(s)
-[19:55:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8523ms behind, skipping 170 tick(s)
-[20:09:10] [Server thread/WARN]: KoreanwGlasses moved wrongly!
-[20:14:20] [Server thread/WARN]: KoreanwGlasses moved too quickly! 0.0,-10.317093694908522,0.0 (0.0, 10.317093694908522, 0.0)
-[20:17:36] [Server thread/INFO]: KoreanwGlasses lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[20:17:36] [Server thread/INFO]: KoreanwGlasses left the game
-[20:49:53] [Thread-5328/INFO]: Starting backup of dimensions -1, 0
-[20:50:02] [Thread-5328/INFO]: Backup finished!
-[21:49:53] [Thread-6434/INFO]: Starting backup of dimensions -1, 0
-[21:50:02] [Thread-6434/INFO]: Backup finished!
-[22:49:53] [Thread-7463/INFO]: Starting backup of dimensions -1, 0
-[22:50:02] [Thread-7463/INFO]: Backup finished!
-[23:45:19] [User Authenticator #5/INFO]: UUID of player KoreanwGlasses is 9ed909d8-ac8e-4615-9191-52a800ccf83f
-[23:45:20] [Server thread/INFO]: KoreanwGlasses[/192.168.1.1:52417] logged in with entity id 362393 at (465.286756615626, 42.0, -235.8372615048644)
-[23:45:20] [Server thread/INFO]: KoreanwGlasses joined the game
-[23:49:53] [Thread-8606/INFO]: Starting backup of dimensions -1, 0
-[23:50:02] [Thread-8606/INFO]: Backup finished!
-[23:51:38] [Server thread/INFO]: KoreanwGlasses lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[23:51:38] [Server thread/INFO]: KoreanwGlasses left the game
-[23:51:44] [Server thread/INFO]: Stopping the server
-[23:51:45] [Server thread/INFO]: Stopping server
-[23:51:45] [Server thread/INFO]: Saving players
-[23:51:45] [Server thread/INFO]: Saving worlds
-[23:51:45] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[23:51:45] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[23:51:45] [Thread-8626/INFO]: Starting backup of dim 0...
+[17:32:17] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[17:32:39] [Server thread/INFO]: Loading properties
+[17:32:39] [Server thread/INFO]: Default game type: SURVIVAL
+[17:32:39] [Server thread/INFO]: Generating keypair
+[17:32:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:32:50] [Server thread/INFO]: Preparing level "world"
+[17:32:50] [Thread-17/INFO]: Starting backup of dim 1...
+[17:32:50] [Thread-17/INFO]: Backup finished
+[17:32:50] [Thread-18/INFO]: Starting backup of dim -1...
+[17:32:50] [Server thread/INFO]: Preparing start region for level 0
+[17:32:51] [Server thread/INFO]: Done (6.742s)! For help, type "help" or "?"
+[17:32:51] [Thread-18/INFO]: Backup finished
+[17:32:51] [Thread-19/INFO]: Starting backup of dim 0...
+[17:32:59] [Thread-19/INFO]: Backup finished
+[17:33:28] [Thread-39/INFO]: Starting backup of dim 1...
+[17:33:28] [Thread-39/INFO]: Backup finished
+[17:41:00] [User Authenticator #1/INFO]: UUID of player KoreanwGlasses is 9ed909d8-ac8e-4615-9191-52a800ccf83f
+[17:41:01] [Server thread/INFO]: KoreanwGlasses[/192.168.1.1:53841] logged in with entity id 508 at (460.9696910126685, 42.0, -239.80124798882838)
+[17:41:01] [Server thread/INFO]: KoreanwGlasses joined the game
+[17:41:51] [Server thread/INFO]: KoreanwGlasses lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:41:51] [Server thread/INFO]: KoreanwGlasses left the game
+[18:02:11] [User Authenticator #2/INFO]: UUID of player KoreanwGlasses is 9ed909d8-ac8e-4615-9191-52a800ccf83f
+[18:02:11] [Server thread/INFO]: KoreanwGlasses[/192.168.1.1:54503] logged in with entity id 2052 at (462.18863414009155, 42.0, -238.90030213670065)
+[18:02:11] [Server thread/INFO]: KoreanwGlasses joined the game
+[18:03:00] [Server thread/INFO]: KoreanwGlasses lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:03:00] [Server thread/INFO]: KoreanwGlasses left the game
+[18:03:43] [User Authenticator #3/INFO]: UUID of player KoreanwGlasses is 9ed909d8-ac8e-4615-9191-52a800ccf83f
+[18:03:43] [Server thread/INFO]: KoreanwGlasses[/192.168.1.1:54582] logged in with entity id 2975 at (457.2809879525238, 42.0, -237.74725458243046)
+[18:03:43] [Server thread/INFO]: KoreanwGlasses joined the game
+[18:15:43] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[18:17:42] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[18:22:02] [User Authenticator #4/INFO]: UUID of player KoreanwGlasses is 9ed909d8-ac8e-4615-9191-52a800ccf83f
+[18:22:03] [Server thread/INFO]: KoreanwGlasses lost connection: TextComponent{text='You logged in from another location', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:22:03] [Server thread/INFO]: KoreanwGlasses left the game
+[18:22:03] [Server thread/INFO]: KoreanwGlasses[/192.168.1.1:55053] logged in with entity id 31582 at (458.69999998807907, 139.0, -235.50503817909873)
+[18:22:03] [Server thread/INFO]: KoreanwGlasses joined the game
+[18:22:15] [Server thread/WARN]: KoreanwGlasses moved too quickly! 0.0,-11.848033837678514,0.0 (0.0, 11.848033837678514, 0.0)
+[18:22:27] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[18:32:52] [Thread-813/INFO]: Starting backup of dimensions -1, 0
+[18:33:01] [Thread-813/INFO]: Backup finished!
+[18:35:53] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[18:38:46] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[18:40:42] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[18:47:15] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[18:49:46] [Server thread/INFO]: KoreanwGlasses lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:49:46] [Server thread/INFO]: KoreanwGlasses left the game
+[18:49:50] [User Authenticator #5/INFO]: UUID of player KoreanwGlasses is 9ed909d8-ac8e-4615-9191-52a800ccf83f
+[18:49:50] [Server thread/INFO]: KoreanwGlasses[/192.168.1.1:55612] logged in with entity id 64512 at (485.9808653316083, 46.39103997645761, -227.03495898790223)
+[18:49:50] [Server thread/INFO]: KoreanwGlasses joined the game
+[18:50:21] [Server thread/INFO]: KoreanwGlasses lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:50:21] [Server thread/INFO]: KoreanwGlasses left the game
+[18:50:30] [User Authenticator #6/INFO]: UUID of player KoreanwGlasses is 9ed909d8-ac8e-4615-9191-52a800ccf83f
+[18:50:30] [Server thread/INFO]: KoreanwGlasses[/192.168.1.1:55623] logged in with entity id 64879 at (485.9808653316083, 46.39103997645761, -227.03495898790223)
+[18:50:30] [Server thread/INFO]: KoreanwGlasses joined the game
+[18:55:32] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[18:57:16] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[19:13:51] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[19:32:52] [Thread-987/INFO]: Starting backup of dimensions -1, 0
+[19:33:01] [Thread-987/INFO]: Backup finished!
+[20:02:13] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[20:07:29] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[20:11:46] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[20:22:20] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[20:32:52] [Thread-1134/INFO]: Starting backup of dimensions -1, 0
+[20:33:00] [Thread-1134/INFO]: Backup finished!
+[20:46:34] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[20:47:02] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[21:01:43] [User Authenticator #7/INFO]: UUID of player Derek30000 is 348ce94d-11dd-479b-b48a-ce6fbfab02ae
+[21:01:44] [Server thread/INFO]: Derek30000[/68.229.81.242:63031] logged in with entity id 240504 at (129.5, 57.0, 241.5)
+[21:01:44] [Server thread/INFO]: Derek30000 joined the game
+[21:01:44] [Server thread/INFO]: New player Derek30000 joined the server!
+[21:01:52] [Server thread/INFO]: Derek30000 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:01:52] [Server thread/INFO]: Derek30000 left the game
+[21:05:05] [User Authenticator #8/INFO]: UUID of player Derek30000 is 348ce94d-11dd-479b-b48a-ce6fbfab02ae
+[21:05:06] [Server thread/INFO]: Derek30000[/68.229.81.242:63100] logged in with entity id 247973 at (129.5, 57.0, 241.5)
+[21:05:06] [Server thread/INFO]: Derek30000 joined the game
+[21:05:13] [Server thread/INFO]: [§cOP§f]<KoreanwGlasses> he
+[21:05:13] [Server thread/INFO]: Derek30000 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:05:13] [Server thread/INFO]: Derek30000 left the game
+[21:06:13] [Server thread/WARN]: KoreanwGlasses moved too quickly! 0.0,-13.180332844442674,0.0 (0.0, 13.180332844442674, 0.0)
+[21:16:40] [User Authenticator #9/INFO]: UUID of player Derek30000 is 348ce94d-11dd-479b-b48a-ce6fbfab02ae
+[21:16:40] [Server thread/INFO]: Derek30000[/68.229.81.242:63384] logged in with entity id 294687 at (129.5, 57.0, 241.5)
+[21:16:40] [Server thread/INFO]: Derek30000 joined the game
+[21:16:49] [Server thread/INFO]: Derek30000 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:16:49] [Server thread/INFO]: Derek30000 left the game
+[21:21:28] [User Authenticator #10/INFO]: UUID of player Derek30000 is 348ce94d-11dd-479b-b48a-ce6fbfab02ae
+[21:21:29] [Server thread/INFO]: Derek30000[/68.229.81.242:63498] logged in with entity id 309749 at (129.5, 57.0, 241.5)
+[21:21:29] [Server thread/INFO]: Derek30000 joined the game
+[21:22:13] [Server thread/INFO]: Derek30000 has just earned the achievement [Taking Inventory]
+[21:26:26] [Server thread/INFO]: Derek30000 has just earned the achievement [Getting Wood]
+[21:29:07] [Server thread/INFO]: Derek30000 has just earned the achievement [Benchmarking]
+[21:29:44] [Server thread/INFO]: Derek30000 has just earned the achievement [Time to Mine!]
+[21:32:52] [Thread-1639/INFO]: Starting backup of dimensions -1, 0
+[21:33:00] [Thread-1639/INFO]: Backup finished!
+[21:34:13] [Server thread/WARN]: KoreanwGlasses moved too quickly! 1.5640599172174916,-10.970295244558272,-2.887142093701982 (1.5640599172174916, 10.970295244558272, 2.887142093701982)
+[21:34:14] [Server thread/WARN]: KoreanwGlasses moved too quickly! 0.037390622124462425,-11.586546590466341,0.0738411756590267 (0.037390622124462425, 11.586546590466341, 0.0738411756590267)
+[21:35:40] [Server thread/INFO]: Derek30000 has just earned the achievement [Getting an Upgrade]
+[21:39:10] [Server thread/INFO]: Derek30000 has just earned the achievement [Time to Strike!]
+[21:41:05] [Server thread/INFO]: Derek30000 has just earned the achievement [Cow Tipper]
+[21:41:17] [Server thread/INFO]: Derek30000 has just earned the achievement [Hot Topic]
+[22:00:57] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[22:08:09] [Server thread/INFO]: Derek30000 has just earned the achievement [Acquire Hardware]
+[22:11:32] [Server thread/INFO]: KoreanwGlasses lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:11:32] [Server thread/INFO]: KoreanwGlasses left the game
+[22:11:36] [User Authenticator #11/INFO]: UUID of player KoreanwGlasses is 9ed909d8-ac8e-4615-9191-52a800ccf83f
+[22:11:36] [Server thread/INFO]: KoreanwGlasses[/192.168.1.1:59397] logged in with entity id 431531 at (425.80617248453495, 42.75, -239.7362209707489)
+[22:11:36] [Server thread/INFO]: KoreanwGlasses joined the game
+[22:15:56] [Server thread/INFO]: Derek30000 has just earned the achievement [Monster Hunter]
+[22:32:52] [Thread-2129/INFO]: Starting backup of dimensions -1, 0
+[22:33:01] [Thread-2129/INFO]: Backup finished!
+[23:06:28] [Server thread/WARN]: Fetching addPacket for removed entity
+[23:06:28] [Server thread/WARN]: Fetching addPacket for removed entity
+[23:08:14] [Server thread/WARN]: KoreanwGlasses moved wrongly!
+[23:08:37] [Server thread/INFO]: Derek30000 has just earned the achievement [DIAMONDS!]
+[23:16:26] [Server thread/INFO]: Derek30000 has just earned the achievement [We Need to Go Deeper]
+[23:20:33] [Server thread/INFO]: Derek30000 has just earned the achievement [An alchemist's best friend!]
+[23:29:14] [Server thread/INFO]: Derek30000 has just earned the achievement [Transmute this into that!]
+[23:32:52] [Thread-3119/INFO]: Starting backup of dimensions -1, 0
+[23:33:01] [Thread-3119/INFO]: Backup finished!
+[23:42:06] [Server thread/INFO]: Derek30000 has just earned the achievement [New Ore Miner]
+[23:58:26] [Server thread/INFO]: Derek30000 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:58:26] [Server thread/INFO]: Derek30000 left the game
+[23:58:28] [Server thread/INFO]: KoreanwGlasses lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:58:28] [Server thread/INFO]: KoreanwGlasses left the game
+[23:58:38] [Server thread/INFO]: Stopping the server
+[23:58:38] [Server thread/INFO]: Stopping server
+[23:58:38] [Server thread/INFO]: Saving players
+[23:58:38] [Server thread/INFO]: Saving worlds
+[23:58:38] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:58:38] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[23:58:38] [Thread-3524/INFO]: Starting backup of dim 0...

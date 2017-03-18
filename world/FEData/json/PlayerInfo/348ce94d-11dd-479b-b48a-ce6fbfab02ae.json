@@ -1,0 +1,28 @@
+{
+  "ident": "(348ce94d-11dd-479b-b48a-ce6fbfab02ae|Derek30000)",
+  "home": {
+    "dim": 0,
+    "pitch": 32.100082,
+    "yaw": -11.109741,
+    "xd": 156.69999998807907,
+    "yd": 13.0,
+    "zd": -301.53458880411455
+  },
+  "lastTeleportOrigin": {
+    "dim": 0,
+    "pitch": 15.750064,
+    "yaw": 180.74068,
+    "xd": 154.6002313873035,
+    "yd": 13.0,
+    "zd": -267.00918131120864
+  },
+  "lastTeleportTime": 1489809193907,
+  "selDim": 0,
+  "inventoryGroups": {},
+  "activeInventoryGroup": "default",
+  "timePlayed": 9441557,
+  "firstLogin": "Mar 17, 2017 9:01:44 PM",
+  "lastLogin": "Mar 17, 2017 9:21:29 PM",
+  "lastLogout": "Mar 17, 2017 11:58:26 PM",
+  "namedTimeout": {}
+}
